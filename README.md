@@ -47,6 +47,15 @@ Commit activity by time of day (UTC).
   </picture>
 </a>
 
+## 🗓️ Isometric Calendar
+
+<a href="https://github.com/sorakondo?tab=overview">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-green.svg" />
+    <img src="./profile-3d-contrib/profile-green.svg" alt="Sora Kondo's GitHub contributions as an isometric calendar" width="100%" />
+  </picture>
+</a>
+
 ## 📈 Activity Graph
 
 [![Sora Kondo's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sorakondo&theme=github-compact&hide_border=true&area=true)](https://github.com/sorakondo?tab=overview)
