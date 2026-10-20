@@ -4,14 +4,14 @@
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-sorakondo.github.io-181717?style=flat-square&logo=github&logoColor=white)](https://sorakondo.github.io/)
 
-## 📊 Most Used Languages
+## 📊 GitHub Stats
 
-<a href="https://github.com/sorakondo?tab=repositories">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=sorakondo&layout=compact&langs_count=8&theme=dark_github&hide_border=true" />
-    <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=sorakondo&layout=compact&langs_count=8&theme=light_github&hide_border=true" alt="Sora Kondo's most used languages across public repositories" />
-  </picture>
-</a>
+<p align="left">
+  <img alt="Top Languages" height="195px" src="https://github-stats-extended.vercel.app/api/top-langs/?username=sorakondo&layout=donut&show_icons=true&theme=radical" />
+  <img alt="GitHub Stats" height="195px" src="https://github-stats-extended.vercel.app/api?username=sorakondo&show_icons=true&theme=radical" />
+  <br />
+  <img alt="Contributions" height="300px" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sorakondo&theme=2077" />
+</p>
 
 ## 🛠️ Tech I've Worked With
 
