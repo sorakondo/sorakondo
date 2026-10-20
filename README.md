@@ -50,9 +50,11 @@ Commit activity by time of day (UTC).
 ## 🗓️ Isometric Calendar
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-rainbow.svg" />
-  <img src="./profile-3d-contrib/profile-season.svg" alt="3D Contribution Calendar" width="100%" />
+  <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-languages-dark.svg" />
+  <img src="./profile-3d-contrib/profile-languages-light.svg" alt="3D Contribution Calendar colored by repository primary language" width="100%" />
 </picture>
+
+Colors represent the dominant repository primary language for each day's commits.
 
 ## 📈 Activity Graph
 

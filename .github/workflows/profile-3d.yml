@@ -8,6 +8,7 @@ on:
     branches: [main]
     paths:
       - .github/workflows/profile-3d.yml
+      - scripts/generate-language-calendar.py
 
 permissions:
   contents: write
@@ -21,9 +22,10 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v5
-      - uses: yoshi389111/github-profile-3d-contrib@7d95e7d4cdc028dd1e1cbd957d65f35efb12ae39 # v0.9.3
+      - name: Generate calendars colored by repository language
+        run: python3 scripts/generate-language-calendar.py
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
       - name: Commit generated calendars
         run: |
