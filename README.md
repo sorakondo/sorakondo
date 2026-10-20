@@ -36,8 +36,6 @@ Technologies I've used or explored in projects and personal experiments.
 ![GitHub Actions, Nix, Cloudflare, pnpm](https://skillicons.dev/icons?i=githubactions,nix,cloudflare,pnpm)
 ![uv](https://img.shields.io/badge/uv-DE5FE9?style=flat-square&logo=uv&logoColor=white)
 
-## 🗓️ Isometric Calendar
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-gitblock-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="./profile-3d-contrib/profile-gitblock.svg" />
