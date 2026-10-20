@@ -49,12 +49,10 @@ Commit activity by time of day (UTC).
 
 ## 🗓️ Isometric Calendar
 
-<a href="https://github.com/sorakondo?tab=overview">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-green.svg" />
-    <img src="./profile-3d-contrib/profile-green.svg" alt="Sora Kondo's GitHub contributions as an isometric calendar" width="100%" />
-  </picture>
-</a>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-rainbow.svg" />
+  <img src="./profile-3d-contrib/profile-season.svg" alt="3D Contribution Calendar" width="100%" />
+</picture>
 
 ## 📈 Activity Graph
 
