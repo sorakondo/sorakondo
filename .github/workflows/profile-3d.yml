@@ -8,6 +8,7 @@ on:
     branches: [main]
     paths:
       - .github/workflows/profile-3d.yml
+      - .github/profile-3d/gitblock.json
 
 permissions:
   contents: write
@@ -27,6 +28,7 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
+          SETTING_JSON: .github/profile-3d/gitblock.json
       - name: Commit generated calendars
         run: |
           git config user.name "github-actions[bot]"
