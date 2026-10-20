@@ -36,17 +36,6 @@ Technologies I've used or explored in projects and personal experiments.
 ![GitHub Actions, Nix, Cloudflare, pnpm](https://skillicons.dev/icons?i=githubactions,nix,cloudflare,pnpm)
 ![uv](https://img.shields.io/badge/uv-DE5FE9?style=flat-square&logo=uv&logoColor=white)
 
-## 🕒 Coding Habits
-
-Commit activity by time of day (UTC).
-
-<a href="https://github.com/sorakondo?tab=overview">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sorakondo&theme=github_dark&utcOffset=0" />
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sorakondo&theme=github&utcOffset=0" alt="Sora Kondo's commits by time of day (UTC)" />
-  </picture>
-</a>
-
 ## 🗓️ Isometric Calendar
 
 <picture>
@@ -55,9 +44,3 @@ Commit activity by time of day (UTC).
 </picture>
 
 Colors represent the dominant repository primary language for each day's commits.
-
-## 📈 Activity Graph
-
-[![Sora Kondo's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sorakondo&theme=github-compact&hide_border=true&area=true)](https://github.com/sorakondo?tab=overview)
-
-<!-- Dynamic cards: https://github.com/stats-organization/github-stats-extended and https://github.com/Ashutosh00710/github-readme-activity-graph -->
