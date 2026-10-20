@@ -38,4 +38,8 @@ Technologies I've used or explored in projects and personal experiments.
 
 ## 🗓️ Isometric Calendar
 
-![3D Contribution Calendar — Git Block](./profile-3d-contrib/profile-gitblock.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-gitblock-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./profile-3d-contrib/profile-gitblock.svg" />
+  <img src="./profile-3d-contrib/profile-gitblock.svg" alt="3D Contribution Calendar — Git Block" width="100%" />
+</picture>
